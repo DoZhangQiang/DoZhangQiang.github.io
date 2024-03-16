@@ -1,0 +1,7 @@
+# 配置文件示例
+
+title: "ZhangQiang"
+description: "Description of your website"
+theme: jekyll-theme-minimal # 可以是你喜欢的任何Jekyll主题
+
+# 其他自定义配置
