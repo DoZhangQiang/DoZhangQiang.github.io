@@ -3,3 +3,4 @@
 title: "QiangZhang - HomePage"
 description: "Welcome to my HomePage"
 # 其他自定义配置
+theme: jekyll-theme-minimal # 可以是你喜欢的任何Jekyll主题
