@@ -10,7 +10,7 @@ I hope to continue working on porting and researching high-performance computing
 
 - 2024.02: [ASC24 Final](http://www.asc-events.org/StudentChallenge/Finals.html), we are coming!
 
-- 2024.01: Authorized an [invention patent](docs/patent.pdf) (First inventor): An image processing algorithm optimized for parallel computing on the new Sunway.
+- 2024.01: Authorized an [invention patent](docs/patent.pdf) (First inventor): An image processing algorithm optimized for parallel computing on the **new Sunway**.
 - 2023.08: We won second prize in [CPC 2023](https://mp.weixin.qq.com/s/B6SLQ9-q2xjWaIEnGokmRw), ranked 6th.
 
 ## Educations
