@@ -1,3 +1,5 @@
+# Qiang Zhang
+
 An undergraduate student in the School of Computer Science and Technology at SWPU(SouthWest Petroleum University), Class of 2021. I am also a Student Member of CCF.
 
 I am a member of the Supercomputing Team at SWPU, focusing on high-performance computing competitions both domestically and internationally. These competitions include CPC (China Parallel application Challenge on domestic CPU), PAC (Parallel Application Challenge), ASC (ASC Student Supercomputer Challenge), and PRA (Priority Research Application). 
@@ -5,6 +7,8 @@ I am a member of the Supercomputing Team at SWPU, focusing on high-performance c
 My expertise lies in architectures such as Sunway, X86, and CUDA programming.
 
 I hope to continue working on porting and researching high-performance computing applications during my master's studies.
+
+You can get an two-page version of my CV writed in Chinese [here](docs/CV.pdf).
 
 ## News
 
@@ -14,6 +18,9 @@ I hope to continue working on porting and researching high-performance computing
 - 2023.08: We won second prize in [CPC 2023](https://mp.weixin.qq.com/s/B6SLQ9-q2xjWaIEnGokmRw), ranked 6th.
 
 ## Educations
+
+- 2021.09 - 2025.06: Computer Science and Technology, SouthWest Petroleum University.
+  - GPA: 4.2/5.0
 
 
 
