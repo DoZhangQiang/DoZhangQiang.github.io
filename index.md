@@ -1,4 +1,6 @@
-# Qiang Zhang
+---
+title: "Qiang Zhang"
+---
 
 An undergraduate student in the School of Computer Science and Technology at SWPU(SouthWest Petroleum University), Class of 2021. I am also a Student Member of CCF.
 
