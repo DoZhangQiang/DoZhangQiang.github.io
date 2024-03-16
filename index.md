@@ -1,30 +1,3 @@
-
-<div style="display: flex; ">
-  <div style="width:40%">
-    <img src="images/me.jpg" alt="image">
-  </div>
-
-  <div style="flex:1"></div>
-
-  <div style="flex: 2; 
-  padding-right: 20px;">
-    <p>
-    <samll>
-    联系方式:
-    <br>
-    手机:xx
-    <br>
-    微信:xxx
-    <br>
-    邮箱:
-    xxx
-    </p>
-    </small>
-  </div>
-</div>
-
-
-
 An undergraduate student in the School of Computer Science and Technology at SWPU(SouthWest Petroleum University), Class of 2021. I am also a Student Member of CCF.
 
 I am a member of the Supercomputing Team at SWPU, focusing on high-performance computing competitions both domestically and internationally. These competitions include CPC (China Parallel application Challenge on domestic CPU), PAC (Parallel Application Challenge), ASC (ASC Student Supercomputer Challenge), and PRA (Priority Research Application). 
