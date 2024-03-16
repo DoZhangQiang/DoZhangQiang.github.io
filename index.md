@@ -1,7 +1,7 @@
 
 <div style="display: flex; ">
   <div style="width:40%">
-    <img src="images/touxiang.png" alt="image">
+    <img src="images/me.jpg" alt="image">
   </div>
 
   <div style="flex:1"></div>
