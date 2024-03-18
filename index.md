@@ -28,6 +28,7 @@ You can get an two-page version of my CV writed in Chinese [here](docs/CV.pdf).
 - 2023.08 [Second prize(3rd)](https://mp.weixin.qq.com/s/bW2WEuDNiSj1WYJV2tiRTg) in the HPC-PL, 2023.
 - 2023.06 Level A Certificate of Sichuan Province, 2023.
 - 2023.02 Merit Student of SWPU, 2021 - 2022.
+- 2022.12 Third prize in the IPCC(Preliminary), 2022.
 - 2022.12 [Third prize](https://mp.weixin.qq.com/s/XiXrfQVJtT-zG2f7bMgkZg) in the CPC, 2022.
 - 2022.11 Third prize of Sichuan Province in the CUMCM, 2022.
 
@@ -35,8 +36,16 @@ You can get an two-page version of my CV writed in Chinese [here](docs/CV.pdf).
 
 - 2022.09 - 2023.09, Student Captain of the Supercomputing Team.
 
-  Responsible for the HPC training within the team.
+  - Responsible for the HPC training within the team.
 
 - 2023.07 - 2023.08, Co-organizer of the [HPC-PL](https://mp.weixin.qq.com/s/bW2WEuDNiSj1WYJV2tiRTg).
 
-# Selected Projects
+## Selected Projects
+
+- swPCG:Multi-angle computation and memory access optimization for PCG algorithm on the New Generation Sunway Supercomputer	
+  - This is the project for the CPC 2023. Base on the serial PCG algorithm that the organizing committee provided. I am responsible for the writing of slave core code. Various methods such as LDM space access adjustment and double buffering were adopted for acceleration. Additionally, the sub-algorithm LDU2CSR was refactored to eliminate its circular dependencies, thus making it more suitable for parallel computing.Achieve an average speedup of 22 times across 600 cases.
+
+- swBlender:
+
+  
+
