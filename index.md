@@ -18,6 +18,11 @@ You can get an two-page version of my CV writed in Chinese [here](docs/CV.pdf).
 - 2021.09 - 2025.06: Computer Science and Technology, SouthWest Petroleum University.
   - GPA: 4.2/5.0
 
+## Publications and & Patents
+
+- Zhuozhao Xia, **Qiang Zhang**, Xinhang Zhou, and Hongjie Zhao. 2023. Parallel Optimization of SLIC Algorithm for New-Generation Sunway Processors. In Proceedings of the 2023 7th International Conference on High Performance Compilation, Computing and Communications (HP3C '23). 85–91. (EI)
+- **Qiang Zhang**, Hongzhang Liao, Xitao Li, Guangsen Zhou, Huaxin Song, and Jia Zhang. An image processing method and system based on histogram equalization optimization algorithm.(Patent number : ZL 2023 1 0462081.6)
+
 ## Honors and Awards
 
 - 2023.12 [Second prize](https://cas-pra.sugon.com/webnews/detail/243) in the PRA region at *Convolution ptimization*, 2023.
