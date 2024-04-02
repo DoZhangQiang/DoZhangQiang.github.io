@@ -1,4 +1,4 @@
-An undergraduate student in the School of Computer Science and Technology at SWPU(SouthWest Petroleum University), Class of 2021. I am also a Student Member of CCF.
+An undergraduate student in the School of Computer Science and Technology at SWPU(SouthWest Petroleum University), Class of 2021.
 
 I am a member of the Supercomputing Team at SWPU, focusing on high-performance computing competitions both domestically and internationally. These competitions include ASC (ASC Student Supercomputer Challenge), CPC (China Parallel application Challenge on domestic CPU), PAC (Parallel Application Challenge), IPCC(International Parallel Computing Challenge) and PRA (Priority Research Application). 
 
@@ -21,7 +21,7 @@ You can get an two-page version of my CV writed in Chinese [here](docs/CV.pdf).
 ## Educations
 
 - 2021.09 - 2025.06: Computer Science and Technology, SouthWest Petroleum University.
-  - GPA: 4.2/5.0
+  - GPA: 4.19/5.0
 
 ## Publications and Patents
 
@@ -46,6 +46,7 @@ You can get an two-page version of my CV writed in Chinese [here](docs/CV.pdf).
 
 - 2022.09 - 2023.09, Student Captain of the Supercomputing Team.
 
+  - Leading the compilation of the Supercomputing Team training program.
   - Responsible for the HPC training within the team.
 
 - 2023.07 - 2023.08, Co-organizer of the [HPC-PL](https://mp.weixin.qq.com/s/bW2WEuDNiSj1WYJV2tiRTg).
@@ -53,10 +54,8 @@ You can get an two-page version of my CV writed in Chinese [here](docs/CV.pdf).
 ## Selected Projects
 
 - *swPCG: Multi-angle computation and memory access optimization for PCG algorithm on the New Generation Sunway Supercompute*	
-  - This is the project for the **CPC 2023**. Base on the serial PCG algorithm that the organizing committee provided. I was responsible for the writing of slave core code. Various methods such as LDM space access adjustment and double buffering were adopted for acceleration. Additionally, the sub-algorithm LDU2CSR was refactored to eliminate its circular dependencies, thus making it more suitable for parallel computing. Achieve an average speedup of **22 times** across 600 cases.
-  
-- *swBlender: Parallelization of ray tracing and denoising in the Cycles renderer on the New Generation Sunway Supercompute*  
-  - This is the project for the **CPC 2022**. I was responsible for designing load balancing strategies for interval distribution in ray tracing algorithms. Additionally, I optimized communication between different core groups on the same chip using cross-sections. Furthermore, I wrote and optimized slave core code for the denoising algorithm section. Achieve an average speedup of **34 times** across the evaluation case.
-
+  - This is the project for the **CPC 2023**. Base on the serial PCG algorithm that the organizing committee provided. I was responsible for the writing of slave core code. Various methods such as LDM space access adjustment and double buffering were adopted for acceleration. Additionally, the sub-algorithm LDU2CSR was refactored to eliminate its circular dependencies, thus making it more suitable for parallel computing. Achieve an average speedup of 22 times across 600 cases.
+- *swBlender: Parallelization of ray tracing and denoising in the Cycles renderer on the New Generation Sunway Supercompute*
+  - This is the project for the **CPC 2022**. I was responsible for designing load balancing strategies for interval distribution in ray tracing algorithms. Additionally, I optimized communication between different core groups on the same chip using cross-sections. Furthermore, I wrote and optimized slave core code for the denoising algorithm section. Achieve an average speedup of 34 times across the evaluation case.
 - *swROMS: Parallel three computation modes of ROMS on the New Generation Sunway Supercompute*
-  - This is the project for the **CPC 2023**. I was responsible for analyzing the dependency patterns of more than 20 sub-algorithms and manually parallelizing over 10 of them. Additionally, I utilized cross-segment copy optimization for inter-core MPI communication. Achieved an average speedup of **3.7 times** across three evaluation cases.
+  - This is the project for the **CPC 2023**. I was responsible for analyzing the dependency patterns of more than 20 sub-algorithms and manually parallelizing over 10 of them. Additionally, I utilized cross-segment copy optimization for inter-core MPI communication. Achieved an average speedup of 3.7 times across three evaluation cases.
