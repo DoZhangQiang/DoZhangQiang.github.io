@@ -1,4 +1,4 @@
-An undergraduate student in the School of Computer Science and Technology at SWPU(SouthWest Petroleum University), Class of 2021.
+An undergraduate student in the School of Computer Science and Technology at SWPU(SouthWest Petroleum University), Class of 2021. I am also a Student Member of CCF.
 
 I am a member of the Supercomputing Team at SWPU, focusing on high-performance computing competitions both domestically and internationally. These competitions include ASC (ASC Student Supercomputer Challenge), CPC (China Parallel application Challenge on domestic CPU), PAC (Parallel Application Challenge), IPCC(International Parallel Computing Challenge) and PRA (Priority Research Application). 
 
@@ -7,6 +7,8 @@ I hope to continue working on porting and researching HPC applications during th
 You can get an two-page version of my CV writed in Chinese [here](docs/CV.pdf).
 
 ## News
+
+- 2024.04 We win [First Prize & Group Competition Award](https://mp.weixin.qq.com/s/XtF9Zw9dyaNlwsifyeBQcw) , this is an unforgettable experience.
 
 - 2024.02 [ASC24 Final](http://www.asc-events.org/StudentChallenge/Finals.html), we are coming!
 
@@ -30,6 +32,7 @@ You can get an two-page version of my CV writed in Chinese [here](docs/CV.pdf).
 
 ## Honors and Awards
 
+- 2024.04 [First Prize & Group Competition Award](https://mp.weixin.qq.com/s/XtF9Zw9dyaNlwsifyeBQcw) in the ASC24, 2024.
 - 2023.12 [Second prize](https://cas-pra.sugon.com/webnews/detail/243) in the PRA region at *Convolution ptimization*, 2023.
 - 2023.12 [Third prize](https://cas-pra.sugon.com/webnews/detail/243) in the PRA region at *Optimization of graph convolutional*, 2023.
 - 2023.11 FeiXiang Award(the Highest Honor Award of SWPU) - [Best Team Nomination](https://www.swpu.edu.cn/xsfx/info/1024/1477.htm), 2023.
